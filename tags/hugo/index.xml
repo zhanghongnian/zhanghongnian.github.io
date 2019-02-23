@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Even - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/tags/hugo/</link>
+    <link>https://zhanghongnian.github.io/tags/hugo/</link>
     <description>Recent content in hugo on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 22 Feb 2019 22:49:02 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhanghongnian.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>搭建 hugo 博客</title>
-      <link>http://localhost:1313/post/init_hugo/</link>
+      <link>https://zhanghongnian.github.io/post/init_hugo/</link>
       <pubDate>Fri, 22 Feb 2019 22:49:02 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/init_hugo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/init_hugo/hugo-logo-wide.svg&#34; alt=&#34;hugo-logo-wide&#34; /&gt;&lt;/p&gt;
+      <guid>https://zhanghongnian.github.io/post/init_hugo/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://zhanghongnian.github.io/images/init_hugo/hugo-logo-wide.svg&#34; alt=&#34;hugo-logo-wide&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;目前比较流行的 blog 系统有 hexo 和 hugo。前者基于 node.js，插件、主题丰富；后者基于 golang，插件、主题没有前者丰富，但也够用，性能比前者强。嘛，毕竟自己是吃后端饭的，工作也以 golang 为主。自己的 blog 就选择 hugo 了。&lt;/p&gt;</description>
     </item>

@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://zhanghongnian.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/init_hugo/</loc>
+    <loc>https://zhanghongnian.github.io/post/init_hugo/</loc>
     <lastmod>2019-02-22T22:49:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://zhanghongnian.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://zhanghongnian.github.io/</loc>
     <lastmod>2019-02-22T22:49:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://zhanghongnian.github.io/post/</loc>
     <lastmod>2019-02-22T22:49:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://zhanghongnian.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://zhanghongnian.github.io/tags/blog/</loc>
     <lastmod>2019-02-22T22:49:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/blog/</loc>
+    <loc>https://zhanghongnian.github.io/categories/blog/</loc>
     <lastmod>2019-02-22T22:49:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://zhanghongnian.github.io/tags/hugo/</loc>
     <lastmod>2019-02-22T22:49:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
